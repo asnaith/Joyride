@@ -62,6 +62,9 @@ packages/
 # visual studio database projects
 *.dbmdl
 
+# visual studio 2015/2017 cache/options directory
+*.vs/
+
 # Log and screenshot files
 
 **/Screenshots/*.png
